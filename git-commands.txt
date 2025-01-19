@@ -1,0 +1,3 @@
+// Remove everything from staged area
+git rm --cached -r .
+
