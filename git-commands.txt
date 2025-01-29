@@ -1,3 +1,21 @@
 // Remove everything from staged area
 git rm --cached -r .
 
+// initialize a new repository
+git init
+
+// check staging area
+git status
+
+// add to staging area
+git add filename or . -> for all the files
+
+// commit a change
+git commit -m "Complete function2"
+
+// to check all the commits
+git log
+
+
+ 
+
