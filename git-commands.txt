@@ -16,6 +16,16 @@ git commit -m "Complete function2"
 // to check all the commits
 git log
 
+// to reverse a change that was not staged
+git checkout filename
+
+// to check difference between a staged file and changes on that file that are not staged yet
+git diff filename
+
+// push a repository an github
+git remote add origin repositoryURL
+git push -u origin main
+
 
  
 
