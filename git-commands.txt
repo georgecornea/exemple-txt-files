@@ -26,6 +26,19 @@ git diff filename
 git remote add origin repositoryURL
 git push -u origin main
 
+// .gitignore files
+// https://github.com/github/gitignore
 
+// clone an repository in a local machine
+git clone repositoryURL
+
+// check existing brach, the asterix shows the current branch
+git branch 
+
+// create a new branch
+git branch branchName
+
+// switch branches
+git checkout branch name
  
 
