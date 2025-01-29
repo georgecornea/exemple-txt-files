@@ -41,4 +41,10 @@ git branch branchName
 // switch branches
 git checkout branch name
  
+// to merge the changes from new branch with main branch
+// first switch to main branch
+git merge newBranchName 
+git merge andromeda
+
+
 
