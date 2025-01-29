@@ -1,2 +1,7 @@
 This is a new file for testing the andromeda option
-Oprion1 to save everyhting in a local directory
+
+Option1 to save everyhting in a local directory
+
+Option2 that creates a remote directory
+
+
